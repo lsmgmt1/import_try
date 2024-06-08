@@ -1,0 +1,11 @@
+flask
+flask-restful
+flask-cors
+flask-socketio
+flask-sqlalchemy
+scikit-learn
+pandas
+numpy
+matplotlib
+openai
+gunicorn
